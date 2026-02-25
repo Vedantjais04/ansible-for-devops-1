@@ -2,4 +2,4 @@
 - hosts: all
   become: true
   roles:
-   - https
+   - https     //used this https cause i was trying to figure out the ansible roles functioning.
